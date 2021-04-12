@@ -5,5 +5,5 @@ about the expense through the chart bar.We can delete the specified expenses by 
 
 
 <img src="ScreenShots/Screenshot_1618221138.png" width="205">       <img src="ScreenShots/Screenshot_1618221142.png" width="205">
-<img src="ScreenShots/Screenshot_1618221183.png" width="205">       <img src="ScreenShots/Screenshot_1618221193.png" width="205">
+<img src="ScreenShots/Screenshot_1618221183.png" width="205"> <br>      <img src="ScreenShots/Screenshot_1618221193.png" width="205">
 <img src="ScreenShots/Screenshot_1618221204.png" width="205">
